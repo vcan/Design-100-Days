@@ -22,3 +22,12 @@ Adobe认证专家 · 全球Top10讲师 · 设计师网站创始人讲解。
 同一位讲师，课程看介绍。
 
 ![Ai大师课](./img/aidashike.jpg)
+
+
+### 4. [硅谷大神教Sketch三剑客炫酷设计](./学习资料/硅谷sketch.md)  
+网易云课堂售价99元的课程。
+硅谷知名产品设计师从Sketch的基础讲起，让你快速上手这个工具，同时会介绍Principle和Flinto。
+
+![硅谷大神教Sketch三剑客炫酷设计](./img/guigusanjianke.jpg)
+
+
